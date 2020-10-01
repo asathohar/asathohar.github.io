@@ -32,14 +32,6 @@ h1 {
     font-size: 2.5vw;
 }
 
-h1:hover { 
-    -webkit-transition: all .3s; 
-    -o-transition: all .3s; 
-    transition: all .3s;
-    margin-top: 2.5vh;
-    text-shadow: 1vh 1vh 1vh darkgrey;
-} 
-
 h2 {
     font-family: 'Courier New', Courier, monospace;
     margin-left: 1vw;
